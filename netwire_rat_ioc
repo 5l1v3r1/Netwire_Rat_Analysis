@@ -1,0 +1,26 @@
+Network
+
+Domains
+
+wow1234.duckdns.org -> observed analysis time
+eden1234.duckdns.org
+gbam001.duckdns.org
+C&C IP adress and port
+
+wow1234.duckdns.org:32002, 185.165.153.219
+Hash
+
+SHA256:9CDAD66041CA2B1D2FC0BCCDC9841FE6AA33E0275A169AA6DEFFD0B75778721A
+
+Mitre ATT&CK
+
+T1193 : Spearphishing Attachment
+T1082 : System Information Discovery
+T1333 : Dynamic Dns
+T1057 : Process Discovery
+T1056:  Input Capture
+T1060:  Registry Run Keys / Startup Folder
+Mitre Ref :https://attack.mitre.org/software/S0198/
+
+
+https://otx.alienvault.com/pulse/5cc2969f2d670bd63f9164d2 > ioc_list
